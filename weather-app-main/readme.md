@@ -5,7 +5,6 @@ Weather App is a simple web application designed to provide users with real-time
 
 ## Features
 - **Current Weather Display:** Provides current weather conditions including temperature, humidity, wind speed, and weather description.
-- **Forecast:** Offers a 5-day weather forecast, enabling users to plan ahead.
 - **Location Search:** Allows users to search for weather information by entering a specific location or city name.
 - **Dynamic Backgrounds:** Changes background images based on weather conditions to enhance user experience.
 
@@ -19,7 +18,6 @@ Weather App is a simple web application designed to provide users with real-time
 ## Usage
 1. Upon opening the app, you will be presented with the current weather information for your current location (based on your browser settings).
 2. To search for weather information for a different location, simply enter the desired location or city name in the search bar and press Enter.
-3. You can view the 5-day weather forecast by clicking on the "Forecast" tab.
 4. Enjoy exploring the weather conditions and forecasts for different locations!
 
 ## Technologies Used
@@ -28,13 +26,6 @@ Weather App is a simple web application designed to provide users with real-time
 - JavaScript (ES6+)
 - WeatherAPI
 
-## Credits
-- Weather icons courtesy of [WeatherAPI](https://www.weatherapi.com/)
-
-## Contributions
-Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
-
 ## Contact
 For any inquiries or feedback, please contact manikjain0003.com.
 
-Thank you for using the Weather App! We hope you find it useful and informative.
